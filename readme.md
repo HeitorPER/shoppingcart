@@ -1,11 +1,9 @@
-## objetivo
+Objective
+Create a shopping cart based on Shopee's shopping cart, 
+where the cart stores items and automatically calculates sub-items.
 
-Criar um carrinho de compras baseado no carrinho de compras da shopee, 
-aonde o carrinho armazene itens e faça 
-o calculo de sub-itens automaticamente
+// Application domain: Shopping Cart
 
-//dominio da aplicação: carrinho de compras
-
-//entidades representantes
-//->carrinho
-//->itens
+// Representative entities:
+// -> Cart
+// -> Items
